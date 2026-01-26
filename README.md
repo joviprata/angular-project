@@ -1,5 +1,5 @@
 # Angular Project
-Angular project developed while following Maximilian Schwarzmüller’s Angular course, covering core Angular concepts and best practices.
+Angular project developed while following [Maximilian Schwarzmüller’s Angular course](https://www.udemy.com/share/101WgA3@7gGflgNOgA0TjOQXt7jR3rxfaiiS_mu71DSUZzxAAzJrRrkXivZQNl3Yo0y5OX-Nxg==/), covering core Angular concepts and best practices.
 
 ## Development server
 
