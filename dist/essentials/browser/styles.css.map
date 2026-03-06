@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/styles.css"],
-  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\n* {\n  box-sizing: border-box;\n}\n\nhtml {\n  height: 100%;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n  background: radial-gradient(circle at top left, #181023, #0b0519);\n  color: #c3b3d8;\n  margin: 0;\n  padding: 0;\n  height: 100%;\n}"],
-  "mappings": ";AACA;AACE,cAAY;AACd;AAEA;AACE,UAAQ;AACV;AAEA;AACE,eAAa,SAAS,EAAE;AACxB;AAAA,IAAY;AAAA,MAAgB,OAAO,GAAG,IAAI,IAA9B;AAAA,MAAoC,OAApC;AAAA,MAA6C;AACzD,SAAO;AACP,UAAQ;AACR,WAAS;AACT,UAAQ;AACV;",
-  "names": []
-}
